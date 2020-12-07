@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  UnitTest9.2B.cpp
+C:\Users\computer\Desktop\лаби ап\лаб 9\lab 9.2\lab 9.2B\UnitTest9.2B\UnitTest9.2B.cpp(24,1): error C2653: Assert: не является именем класса или пространства имен
+C:\Users\computer\Desktop\лаби ап\лаб 9\lab 9.2\lab 9.2B\UnitTest9.2B\UnitTest9.2B.cpp(24,12): error C3861: AreEqual: идентификатор не найден
